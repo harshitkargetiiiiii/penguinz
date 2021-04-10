@@ -17,11 +17,6 @@ export class AgencySpeakerComponent implements OnInit {
      name:"Wajeeha Khan",
      designation:"Head Counsellor - otstrab"
     },
-    { 
-      img:"assets/images/event/l3-3.png",
-      name:"Tanuj Chawla",
-      designation:"CTO - Jumpster"
-     },
      { 
       img:"assets/images/event/l3-4.png",
       name:"Harshit Kargeti",
